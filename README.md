@@ -1,8 +1,6 @@
 # ui-clone-pipefy
-Clone da interface do Pipefy (com drag n' drop) - Rocketseat
-
-## Tecnologia utilizada
-ReactJS
+Clone da interface do Pipefy (com drag n' drop) - com ReactJS :purple_heart:
+> Tutorial da Rocketseat
 
 ## Mais funcionalidades (à caminho)
 - [ ] Arrastar cards para listas vazias
