@@ -1,5 +1,5 @@
 # ui-clone-pipefy
-Clone da interface do Pipefy (com drag n' drop) - com ReactJS :purple_heart:
+Clone da interface do Pipefy (com drag n' drop) - com ReactJS :blue_heart:
 > Tutorial da Rocketseat
 
 ## Mais funcionalidades (à caminho)
